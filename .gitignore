@@ -1,0 +1,26 @@
+# Ignorar node_modules en el directorio server
+server/node_modules/
+node_modules
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Archivos de configuración del editor
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Directorios de construcción
+dist/
+build/
+
+# variables de entorno
+.env
+server/.env
