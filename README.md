@@ -1,4 +1,4 @@
-# Mercado Pago checkout PRO
+# Mercado Pago checkout PRO 2.0.11
 Este proyecto es una aplicación web que permite realizar pagos utilizando Mercado Pago. Implementa un flujo de pago básico que crea una preferencia de pago en el servidor y la procesa en el frontend. Una preferencia en Mercado Pago es un conjunto de parámetros que define cómo se debe procesar un pago. Contiene detalles sobre lo que se está comprando, las condiciones de la compra, y cómo se debe manejar el proceso de pago. 
 
 
